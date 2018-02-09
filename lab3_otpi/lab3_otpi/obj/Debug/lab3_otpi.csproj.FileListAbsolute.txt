@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\C#\Проверка\lab3_otpi\lab3_otpi\bin\Debug\lab3_otpi.exe.config
+C:\Users\User\Desktop\C#\Проверка\lab3_otpi\lab3_otpi\bin\Debug\lab3_otpi.exe
+C:\Users\User\Desktop\C#\Проверка\lab3_otpi\lab3_otpi\bin\Debug\lab3_otpi.pdb
+C:\Users\User\Desktop\C#\Проверка\lab3_otpi\lab3_otpi\obj\Debug\lab3_otpi.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#\Проверка\lab3_otpi\lab3_otpi\obj\Debug\lab3_otpi.Form1.resources
+C:\Users\User\Desktop\C#\Проверка\lab3_otpi\lab3_otpi\obj\Debug\lab3_otpi.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Проверка\lab3_otpi\lab3_otpi\obj\Debug\lab3_otpi.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#\Проверка\lab3_otpi\lab3_otpi\obj\Debug\lab3_otpi.exe
+C:\Users\User\Desktop\C#\Проверка\lab3_otpi\lab3_otpi\obj\Debug\lab3_otpi.pdb
